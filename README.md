@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sajid Raja 👋
 
-<!--
-**sajid8757/sajid8757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SQL | Power BI | Python | Excel | PostgreSQL**
 
-Here are some ideas to get you started:
+I build end-to-end analytics projects using real-world datasets with a focus on business intelligence, fraud analytics, ETL pipelines, and executive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- SQL
+- PostgreSQL
+- Power BI
+- Advanced Excel
+- Power Query
+- DAX
+- Pandas
+- NumPy
+- Matplotlib
+
+## Featured Projects
+
+| Project | Domain |
+|---------|--------|
+| UPI Fraud Detection Dashboard | Fraud Analytics |
+| SaaS Cohort & Churn Dashboard | Subscription Analytics |
+| Global Logistics Intelligence | Supply Chain Analytics |
+
+## Connect
+
+- LinkedIn: linkedin.com/in/sajid-raja-2582a53bb
